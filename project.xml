@@ -6,7 +6,7 @@
     <artifactId>commons-feedparser</artifactId>
     <logo>/images/feedparser-logo-white.png</logo>
 
-    <url>http://jakarta.apache.org/commons/feedparser/</url>
+    <url>http://commons.apache.org/feedparser/</url>
 
     <inceptionYear>2004</inceptionYear>
 
@@ -24,13 +24,13 @@
         <logo>http://jakarta.apache.org/images/jakarta-logo.gif</logo>
     </organization>
 
-    <shortDescription>Jakarta Commons FeedParser</shortDescription>
+    <shortDescription>Apache Commons FeedParser</shortDescription>
     
     <description>
     </description>
 
     <siteAddress>jakarta.apache.org</siteAddress>
-    <siteDirectory>/www/jakarta.apache.org/commons/sandbox/feedparser</siteDirectory>
+    <siteDirectory>/www/commons.apache.org/sandbox/feedparser</siteDirectory>
     <distributionDirectory>/www/jakarta.apache.org/builds/jakarta-commons/feedparser</distributionDirectory>
 
     <versions>

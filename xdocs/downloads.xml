@@ -2,7 +2,7 @@
 <document>
    <properties>
       <title>Downloads</title>
-      <author email="commons-dev@jakarta.apache.org">Commons Documentation Team</author>
+      <author email="dev@commons.apache.org">Commons Documentation Team</author>
       <revision>$Id$</revision>
    </properties>
 
@@ -41,7 +41,7 @@
               
               The Subversion repository for FeedParser can be 
               
-              <a href="http://svn.apache.org/viewcvs.cgi/jakarta/commons/dormant/feedparser/trunk/">
+              <a href="http://svn.apache.org/viewvc/commons/dormant/feedparser/trunk/">
                   browsed online
               </a>.
 

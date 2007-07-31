@@ -64,7 +64,7 @@ public class URLResourceRequest extends BaseResourceRequest implements ResourceR
     public static boolean ENABLE_HTTP_DELTA_FEED_IM = false;
     
     public static String USER_AGENT
-        = "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.2.1; aggregator:FeedParser; http://jakarta.apache.org/commons/feedparser/) Gecko/20021130";
+        = "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.2.1; aggregator:FeedParser; http://commons.apache.org/feedparser/) Gecko/20021130";
 
     public static String USER_AGENT_MOZILLA
         = "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.2.1) Gecko/20021130";
@@ -73,7 +73,7 @@ public class URLResourceRequest extends BaseResourceRequest implements ResourceR
      * Not used anymore.  Provided for historical reasons.
      */
     public static final String REFERER
-        = "http://jakarta.apache.org/commons/feedparser/?isAggregator=true";
+        = "http://commons.apache.org/feedparser/?isAggregator=true";
     
     public static final int MAX_CONTENT_LENGTH = 1000000;
     
