@@ -27,7 +27,7 @@ import java.util.zip.GZIPInputStream;
 
 import org.apache.log4j.Logger;
 
-import sun.net.www.protocol.http.HttpURLConnection;
+import java.net.HttpURLConnection;
 
 /**
  * ResourceRequest implementation that uses java.net.URL as the backend.
